@@ -1,2 +1,2 @@
-# cards
+# Cards
 Playing cards library
